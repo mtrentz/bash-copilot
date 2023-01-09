@@ -2,7 +2,7 @@
 Simple script to get copilot suggestion for bash commands.
 
 # Requirements
-1. Have neovim installed and configured with github copilot
+1. Neovim installed and configured with github copilot
 2. Python
 
 # How it works
