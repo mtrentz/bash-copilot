@@ -1,7 +1,7 @@
 # bash-copilot
 Simple script to get copilot suggestion for bash commands and execute it.
 
-![gif-demo](demo.gif)
+<img src="/demo.gif" width="600" />
 
 # Requirements
 1. Neovim installed and configured with github copilot
